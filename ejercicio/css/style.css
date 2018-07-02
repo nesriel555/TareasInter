@@ -1,0 +1,36 @@
+body{
+	overflow-x: hidden;
+}
+.centrarTexto{
+	text-align: center;
+}
+.justificarTexto{
+	text-align: justify;
+}
+/*Código para hacer responsiva una imagen*/
+.ajustarLogo{
+	width: 15%;
+	height: auto;
+}
+.d-block{
+	border: 15px solid white;
+	border-radius: 50% 50%;
+	
+}
+.card{
+	border:10px solid gold;
+	border-radius: 15px;
+	margin-left: 10px;
+}
+.card-img-top, .card-img{
+	border:5px solid blue;
+	border-radius: 50% 50%;
+}
+.card-body{
+	border:5px solid blue;
+	border-radius: 15px;
+	color: gold;
+}
+.card-header{
+	color: gold;
+}
